@@ -19,4 +19,5 @@
 **add_user.sh**	-> Write a script to add a user to Linux.<br> 
 **count_words.sh**	-> Write a script to Find out the frequency of words in a file (needs input).<br> 
 **date_file.sh** ->	Write a shell script that creates a file with the current date (to be used with cronjobs).<br> 
+**nginx_install.sh** -> Shell script that install NGINX webserver
 
